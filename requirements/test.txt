@@ -150,7 +150,7 @@ cycler==0.12.1
     # via matplotlib
 databricks-sdk==0.59.0
     # via mlflow-skinny
-datamodel-code-generator==0.26.3
+datamodel-code-generator==0.64.0
     # via -r requirements/test.in
 dataproperty==1.0.1
     # via
